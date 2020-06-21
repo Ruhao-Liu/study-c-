@@ -1,0 +1,2 @@
+D:\c++ primer plus\第8章\8.6\Debug\8.6.exe
+D:\c++ primer plus\第8章\8.6\Debug\8.6.pdb
